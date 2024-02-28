@@ -1,0 +1,51 @@
+.monsterrat {
+    font-family: Montserrat !important; 
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: black !important;
+}
+
+.hero-txt {
+    font-size: 3rem !important;
+}
+
+.ellips-hero {
+    position: relative;
+    top: 3px;
+}
+
+.btn-hero{
+    background-color: #F86A61;
+    border: 0;
+    font-size: 1.25rem;
+    padding: 0.25rem 4rem;
+    border-radius: 1.25rem;
+ }
+
+.img {
+    border: 0;
+}
+
+.stat1-img {
+    width: 10%;
+}
+
+.txt-stat1 {
+    width: 50%;
+}
+
+.txt-stat1 p {
+    text-align: right;
+}
+
+#stat1 {
+    margin: 10vh 15vw;
+}
+body {
+    background-color: #FBFAF7;
+}
